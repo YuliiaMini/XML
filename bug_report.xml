@@ -9,18 +9,18 @@
   <Severity>Minor</Severity>
 <Status>Opened</Status>
   <Author>Minienok Y</Author>
-<Assigned To>Ivanov I</Assigned To>
+<assignedTo>Ivanov I</assignedTo>
 <Description> 
 <bug>The feedback form is not opened after clicking the "Обратная связь" button</bug>
-<expected result>Exp: The feedback form or contact information is dispayed on the site after clicking the "Обратная связь" button</expected result>
-<actual result>Act: The feedback form is not opened after clicking the "Обратная связь" button</actual result>
+<expectedResult>Exp: The feedback form or contact information is dispayed on the site after clicking the "Обратная связь" button</expectedResult>
+<actualResult>Act: The feedback form is not opened after clicking the "Обратная связь" button</actualResult>
 </Description> 
-<Steps to reproduce>
+<StepsToReproduce>
 <1step>1) go to the site https://multiplex.ua/</1step>
 <2step>2) click on the drop-down menu in the upper left corner of te page</2step>
 <3step>3) click on the "О компании" button</3step>
 <4step>4) click on the "обратная связь" button</4step>
 <5step>5) pay attention to the page</5step>
-</Steps to reproduce>
-<Additional information>no</Additional information>
+</StepsToReproduce>
+<additionalInformation>no</additionalInformation>
 </bug_report>
